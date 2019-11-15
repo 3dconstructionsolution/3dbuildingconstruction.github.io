@@ -1,0 +1,137 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+
+.out img:hover
+{transform:rotate(-25deg);
+transition:2s transform;	
+	
+	
+}
+
+
+
+
+.sliding img:hover
+{
+	transform:(rotate:15deg);
+	
+}
+
+.carausalimages:hover{
+	transform:scale(1,1);	
+	
+}
+
+.leftmenu{
+	width:35%;
+	height:50px;
+	float:left;
+	background-color:yellow;
+	
+	padding-left:60px;
+	font-weight:bold;
+	font-size:22px;
+	line-height:100px;
+	
+}
+
+.leftmenu:hover{
+	
+	background-color:blue;
+	color:white;	
+}
+.leftmenu h4:hover{
+transform:scale(1.25, 1.25);
+transition:transform 1s;
+padding-left:30px;
+
+}
+.leftmenu h4{
+	line-height:50px;
+	font-weight:bold;
+	
+}
+
+
+.rightmenu ul li{
+	display:inline-block;
+		list-style:none;
+		font-size:18px;
+		font-family:badmann;
+		color:white;
+		
+		margin-left:30px;
+	
+}
+.rightmenu ul li:hover{
+	color:red;
+	background-color:yellow;
+	
+	transform:rotate(-10deg) scale(1.5,1.5);
+	transition:transform .7s;
+	overflow:hidden;
+	
+	
+	
+}
+
+.rightmenu{
+	
+	line-height:50px;
+	
+	width:65%;
+	height:50px;
+	padding-left:50px;
+	
+	float:right;
+	
+}
+.menu{
+	width:100%;
+	background-color:red;
+}
+.rowbody{
+	background-color:purple;
+	
+	
+}
+
+.boxnaimbidi{
+	display:block;
+	width:100%;
+	height:150px;
+	line-height:100%;
+	
+	border:3px solid blue;
+	border-radius:10px;
+	overflow:hidden;
+}
+
+.boxnaimbidi:hover{
+	transform:scale(2, 2);
+	transition:transform 1s;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
