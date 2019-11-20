@@ -117,6 +117,45 @@ padding-left:30px;
 	
 }
 
+.frenchise:hover
+{transform:scale(1.5,1.5);
+transition:1s;
+	
+	
+	
+}
+
+.menuclass ul{
+	list-style:none;
+	}
+	
+	.menuclass ul li{
+	background-color:red;
+	border:1px solid blue;
+	width:150px;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+	float:left;
+	border-radius:8px;	
+	margin-left:20px;
+	}
+	
+		.menuclass ul li a{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	display:block;
+	}
+	
+	.menuclass ul li a:hover{
+		background-color:green;
+		border-radius:8px;
+			}
+			
+	
+
+
 
 
 

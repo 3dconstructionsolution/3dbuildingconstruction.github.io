@@ -1,0 +1,22 @@
+*{
+	padding:0;
+	margin:0;
+}
+.texthover{
+	color:blue;
+	background-color:lighter;
+}
+.texthover:hover{
+	color:red;
+	background-color:yellow;
+	font-weight:bold;
+}
+.feel{
+	color:white;
+	background-color:blue;
+}
+.feel:hover{
+	color:yellow;
+	background-color:red;
+}
+

@@ -88,16 +88,22 @@
 		text-align:center;
 	}
 	
+	
+		
+		
 	.col-sm-4{
-		transform:rotate(-15deg)
-		
-		
-		
+		transform:rotate(-15deg);
 	}
 	
 	.row{
 		background-color:purple;
 	}
+	
+	.stylerow{
+		transform:rotate(15deg);
+		
+	}
+	
 	
 
 
